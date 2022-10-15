@@ -1,5 +1,5 @@
-# TO-DO List App using SQFlite
-
+# TO-DO List App
+Using SQFlite and Cubit
 
 
 ## Screenshots
